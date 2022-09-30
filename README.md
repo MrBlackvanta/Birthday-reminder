@@ -25,7 +25,6 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/MrBlackvanta/Birthday-reminder)
-- Live Site URL: [Live](https://faq-accordion-vanta.netlify.app/)
 
 ### Built with
 
