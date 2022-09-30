@@ -1,0 +1,30 @@
+.birthday {
+  margin-bottom: 2.4rem;
+  display: flex;
+  align-items: center;
+  gap: 1.2rem;
+  transition: all 0.5s;
+
+  &-image {
+    width: 7.5rem;
+    height: 7.5rem;
+    object-fit: cover;
+    border-radius: 50%;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  }
+
+  &-details {
+    font-size: 1.6rem;
+    &-name {
+      line-height: 1.25;
+      margin-bottom: 0.5rem;
+      letter-spacing: 1.6px;
+      font-size: 1.6rem;
+    }
+
+    &-age {
+      color: #617d98;
+      line-height: 1.5;
+    }
+  }
+}
